@@ -1,9 +1,9 @@
-# QR Code Position Tracker
+# Object Position Tracker
 
 [![OpenCV](https://img.shields.io/badge/OpenCV-5.0-blue)](https://opencv.org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
 
-Real-time QR code tracking system with position plotting and data export capabilities.
+A real-time tracking system with position plotting and data export capabilities.
 
 ![Demo Screenshot](docs/screenshot.png)
 
